@@ -3,7 +3,11 @@ void main()
 {
 	int a,b,c;
 	scanf("%d %d",&a,&b);
+<<<<<<< HEAD
 	c = a-b;
-	printf("The result is: %d",c);
+=======
+	c = a*b;
+>>>>>>> b2
+	printf("The result is woooojhooooooooooooooo: %d",c);
 }
 	
